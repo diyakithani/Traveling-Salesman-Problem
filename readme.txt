@@ -1,18 +1,11 @@
 /* *****************************************************************************
  *  Name: Diya Kithani
- *  NetID: 226007297
- *  Precept:
- *
- *  Partner Name:
- *  Partner NetID:
- *  Partner Precept:
- **************************************************************************** */
+ */
 
-Which partner is submitting the program files? ME hehe
+---
+Traveling Salesperson Problem
 
-Programming Assignment 8: Traveling Salesperson Problem
-
-Hours to complete assignment (optional): 5 hours
+Hours to complete the assignment (optional): 5 hours
 
 
 /**********************************************************************
